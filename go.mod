@@ -1,4 +1,4 @@
-module github.com/spf13/viper
+module github.com/k0teyk0/viper
 
 go 1.12
 
